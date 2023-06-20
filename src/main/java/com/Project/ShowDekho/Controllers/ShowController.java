@@ -1,14 +1,12 @@
 package com.Project.ShowDekho.Controllers;
 
-import com.Project.ShowDekho.DAO.Show;
+import com.Project.ShowDekho.Model.Show;
 import com.Project.ShowDekho.Service.ShowService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.servlet.function.EntityResponse;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 public class ShowController {

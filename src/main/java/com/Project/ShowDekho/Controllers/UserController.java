@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Controllers;
 
-import com.Project.ShowDekho.DAO.User;
+import com.Project.ShowDekho.Model.User;
 import com.Project.ShowDekho.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

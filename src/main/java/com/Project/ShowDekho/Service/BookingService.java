@@ -1,11 +1,10 @@
 package com.Project.ShowDekho.Service;
 
-import com.Project.ShowDekho.DAO.Booking;
+import com.Project.ShowDekho.Model.Booking;
 import com.Project.ShowDekho.Repository.BookingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.awt.print.Book;
 import java.time.LocalDateTime;
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Service;
 
-import com.Project.ShowDekho.DAO.User;
+import com.Project.ShowDekho.Model.User;
 import com.Project.ShowDekho.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

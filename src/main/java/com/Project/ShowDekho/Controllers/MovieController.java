@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Controllers;
 
-import com.Project.ShowDekho.DAO.Movie;
+import com.Project.ShowDekho.Model.Movie;
 import com.Project.ShowDekho.Service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

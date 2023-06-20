@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Repository;
 
-import com.Project.ShowDekho.DAO.Booking;
+import com.Project.ShowDekho.Model.Booking;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.Project.ShowDekho.DAO;
+package com.Project.ShowDekho.Model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Repository;
 
-import com.Project.ShowDekho.DAO.Movie;
+import com.Project.ShowDekho.Model.Movie;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

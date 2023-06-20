@@ -1,7 +1,6 @@
 package com.Project.ShowDekho.Repository;
 
-import com.Project.ShowDekho.DAO.Cast;
-import jakarta.persistence.criteria.CriteriaBuilder;
+import com.Project.ShowDekho.Model.Cast;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

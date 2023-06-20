@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Repository;
 
-import com.Project.ShowDekho.DAO.User;
+import com.Project.ShowDekho.Model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,11 +1,10 @@
-package com.Project.ShowDekho.DAO;
+package com.Project.ShowDekho.Model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.springframework.beans.factory.aot.AotServices;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

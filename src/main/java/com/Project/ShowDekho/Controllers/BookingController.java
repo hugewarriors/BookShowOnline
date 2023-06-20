@@ -1,12 +1,11 @@
 package com.Project.ShowDekho.Controllers;
 
-import com.Project.ShowDekho.DAO.Booking;
+import com.Project.ShowDekho.Model.Booking;
 import com.Project.ShowDekho.Service.BookingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.awt.print.Book;
 import java.util.List;
 
 @RestController

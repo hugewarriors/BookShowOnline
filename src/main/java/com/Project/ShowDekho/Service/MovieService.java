@@ -1,6 +1,6 @@
 package com.Project.ShowDekho.Service;
 
-import com.Project.ShowDekho.DAO.Movie;
+import com.Project.ShowDekho.Model.Movie;
 import com.Project.ShowDekho.Repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

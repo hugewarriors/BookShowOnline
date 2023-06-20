@@ -1,12 +1,10 @@
 package com.Project.ShowDekho.Service;
 
-import com.Project.ShowDekho.DAO.Cast;
-import com.Project.ShowDekho.DAO.Movie;
+import com.Project.ShowDekho.Model.Cast;
 import com.Project.ShowDekho.Repository.CastRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.xml.catalog.Catalog;
 import java.time.LocalDateTime;
 import java.util.List;
 
